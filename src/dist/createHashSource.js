@@ -43,4 +43,4 @@ var createHashSource = function () {
         },
     };
 };
-export default createHashSource;
+module.exports = createHashSource;
